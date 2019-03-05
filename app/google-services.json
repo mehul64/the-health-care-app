@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1015280160791",
+    "firebase_url": "https://thc-project-c9547.firebaseio.com",
+    "project_id": "thc-project-c9547",
+    "storage_bucket": "thc-project-c9547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015280160791:android:b03611a7d23ef777",
+        "android_client_info": {
+          "package_name": "com.thc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015280160791-uimerlnch5c2862npn9a8ovdvpg7hj4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtS9LMJk4RxiTR4APZ4tx0lB7BPsWqhkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

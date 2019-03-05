@@ -1,0 +1,29 @@
+Alias name: androiddebugkey
+Creation date: Dec 10, 2013
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 36d9cf33
+Valid from: Tue Dec 10 21:40:58 IST 2013 until: Thu Dec 03 21:40:58 IST 2043
+Certificate fingerprints:
+         MD5:  82:A7:86:C7:3E:EA:F1:0E:02:84:E0:DD:23:AF:CA:AE
+         SHA1: 5D:6E:82:7A:C3:A3:FB:B1:B5:09:FE:53:E1:F8:41:17:DA:2B:22:69
+         SHA256: 06:E2:1A:75:31:89:3F:DE:EA:A9:05:70:09:F6:98:27:7E:BB:20:6A:2B:63:48:B5:77:D1:DE:CA:F3:8B:11:F1
+         Signature algorithm name: SHA256withRSA
+         Version: 3
+
+
+
+
+=================================================================================================
+
+Men use the following formula:
+Calories Burned = [(Age x 0.2017) — (Weight x 0.09036) + (Heart Rate x 0.6309) — 55.0969] x Time / 4.184.
+
+Women use the following formula:
+Calories Burned = [(Age x 0.074) — (Weight x 0.05741) + (Heart Rate x 0.4472) — 20.4022] x Time / 4.184.
+
+
+
